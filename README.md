@@ -35,6 +35,8 @@ Beni LinkedIn üzerinden takip edebilirsiniz: [linkedin.com/in/semanuraktas](htt
 
 ![Kişisel Web Sayfam Görseli](KişiselTanıtımSayfası.png)
 
+[Kişisel Tanıtım Sayfası](https://semanurakts.github.io/KisiselTanitimSayfasi/KişiselTanıtımSayfası.html)
+
 ## Lisans
 
 Bu proje tamamen öğrenme amaçlıdır.
